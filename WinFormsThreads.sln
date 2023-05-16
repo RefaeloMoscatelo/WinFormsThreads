@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsThreads", "WinFormsThreads\WinFormsThreads.csproj", "{74752525-B9A2-425F-9D94-72C7BD5175C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Report", "Report\Report.csproj", "{3B847D3C-FC5B-45DA-81AE-430832FE7303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74752525-B9A2-425F-9D94-72C7BD5175C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74752525-B9A2-425F-9D94-72C7BD5175C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74752525-B9A2-425F-9D94-72C7BD5175C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74752525-B9A2-425F-9D94-72C7BD5175C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B847D3C-FC5B-45DA-81AE-430832FE7303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B847D3C-FC5B-45DA-81AE-430832FE7303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B847D3C-FC5B-45DA-81AE-430832FE7303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B847D3C-FC5B-45DA-81AE-430832FE7303}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
